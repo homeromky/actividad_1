@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+header ul li{
+    display: inline-block;
+    margin-right: 10px,;
+}
+
+head ul li a{
+    display: block
+    padding 10px;
+    background-color: cadetblue;
+    color: black;
+    text-decoration: none;
+}
